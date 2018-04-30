@@ -1,4 +1,5 @@
 # Restaurant-POS-ERPNEXT
+# Kitchen and Restaurant Module
 Restaurant POS with ERPNEXT Integration
 
 We have integrated complete Restaurant POS with ERPNext. All Sales Invoices (With line items, table details & customers) will sync with ERPNext.
