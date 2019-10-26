@@ -6,7 +6,7 @@ We have integrated complete Restaurant POS with ERPNext. All Sales Invoices (Wit
 
 For demo of Restaurant POS, Please check below link
 
-http://rpos.smbsolutionkwt.com/smb/
+http://restopos.ribox.me
 
 admin/asdf1234
 
